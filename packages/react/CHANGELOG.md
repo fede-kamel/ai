@@ -1,5 +1,15 @@
 # @ai-sdk/react
 
+## 4.0.110
+
+### Patch Changes
+
+- 00da674: fix(react): preserve Headers instances in useCompletion requests
+- f42a247: fix(react): keep useObject cleared when an initial value is configured
+- Updated dependencies [611d301]
+- Updated dependencies [c415657]
+  - ai@7.0.107
+
 ## 4.0.109
 
 ### Patch Changes

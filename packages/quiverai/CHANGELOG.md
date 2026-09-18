@@ -1,5 +1,11 @@
 # @ai-sdk/quiverai
 
+## 2.0.45
+
+### Patch Changes
+
+- 9528712: feat(quiverai): add SVG editing with source validation, reference images, and edit settings
+
 ## 2.0.44
 
 ### Patch Changes

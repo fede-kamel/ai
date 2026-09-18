@@ -1,5 +1,12 @@
 # ai
 
+## 7.0.107
+
+### Patch Changes
+
+- 611d301: fix(ai): prevent duplicate content types in chat transport requests
+- c415657: fix(ai): decode base64 text data URLs using their declared charset
+
 ## 7.0.106
 
 ### Patch Changes
